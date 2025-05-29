@@ -1,5 +1,5 @@
 This project run with Appium 2 + Java + cucumber BDD
-Also this is first time to create framework from zero scratch
+Also this is my first time to create framework Fronted End Automation from zero scratch
 report on target folder , and the name is cucumber.json
 
 tools implemented:
